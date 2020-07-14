@@ -1,0 +1,117 @@
+[
+
+	{
+		"id": 1,
+		"answer": "Yes"
+	},
+	{
+		"id": 2,
+		"answer": "No"
+  },
+  {
+    "id": 3,
+    "answer": "Ask the next guy!"
+  },
+  {
+    "id": 3,
+    "answer": "Think on that question, take a break and ask it again"
+  },
+  {
+    "id": 4,
+    "answer": "Go ask that other eight ball! I hear they are nicer."
+  },
+  {
+    "id": 5,
+    "answer": "Are you flirting with me?"
+  },
+  {
+    "id": 6,
+    "answer": "I need a nap"
+  },
+  {
+    "id": 7,
+    "answer": "It is certain."
+  },
+  {
+    "id": 8,
+    "answer": "It is decidedly so."
+  },
+  {
+    "id": 9,
+    "answer": "Without a doubt."
+  },
+  {
+    "id": 10,
+    "answer": "Yes – definitely."
+  },
+  {
+    "id": 11,
+    "answer": "Yes – definitely."
+  },
+  {
+    "id": 12,
+    "answer": "You may rely on it."
+  },
+  {
+    "id": 13,
+    "answer": "As I see it, yes."
+  },
+  {
+    "id": 14,
+    "answer": "Most likely."
+  },
+  {
+    "id": 15,
+    "answer": "Outlook good."
+  },
+  {
+    "id": 16,
+    "answer": "Reply hazy, try again."
+  },
+  {
+    "id": 17,
+    "answer": "Not da mama"
+  },
+  {
+    "id": 18,
+    "answer": "Better not tell you now."
+  },
+  {
+    "id": 19,
+    "answer": "Cannot predict now."
+  },
+  {
+    "id": 20,
+    "answer": "Concentrate and ask again."
+  },
+  {
+    "id": 21,
+    "answer": "Don't count on it."
+  },
+  {
+    "id": 22,
+    "answer": "My reply is no."
+  },
+  {
+    "id": 23,
+    "answer": "My sources say no."
+  },
+  {
+    "id": 24,
+    "answer": "Are you sure you want me to answer that?"
+  },
+  {
+    "id": 25,
+    "answer": "Signs point to yes"
+  },
+  {
+    "id": 26,
+    "answer": "Outlook not so good."
+  },
+  {
+    "id": 27,
+    "answer": "Very doubtful."
+  }
+
+
+]
