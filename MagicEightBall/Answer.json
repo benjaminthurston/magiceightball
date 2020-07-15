@@ -1,12 +1,11 @@
 [
-
-	{
-		"id": 1,
-		"answer": "Yes"
-	},
-	{
-		"id": 2,
-		"answer": "No"
+  {
+    "id": 1,
+    "answer": "Yes"
+  },
+  {
+    "id": 2,
+    "answer": "No"
   },
   {
     "id": 3,
@@ -112,6 +111,4 @@
     "id": 27,
     "answer": "Very doubtful."
   }
-
-
 ]
