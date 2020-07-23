@@ -13,4 +13,6 @@ This project was created in the style of an old Magic eight ball toy. You put in
 
 **Any special instructions we might need to run your project:**  
 
-In the program in order to get out of the loop type quit as the answer to exit out.
+In the program in order to get out of the loop type quit as the answer to exit out.  
+
+This program runs best in Visual studio code with the C# plug in added.
